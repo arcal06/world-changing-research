@@ -1,0 +1,2 @@
+git branch my-new-feature
+git checkout my-new-feature
